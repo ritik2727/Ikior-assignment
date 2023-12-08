@@ -1,3 +1,8 @@
+# assignment 
+
+Assignment - Implement the double layer bottom navigation. The most bottom navigation bar when any option is clicked shows another layer of bottom navigation just above the navigation bar as illustrated in the attached image.
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
